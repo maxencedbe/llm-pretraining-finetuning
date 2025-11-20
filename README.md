@@ -49,7 +49,7 @@ The project demonstrates that **Fine-Tuning** significantly outperforms simple F
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/llm-pretraining-finetuning.git](https://github.com/YOUR_USERNAME/llm-pretraining-finetuning.git)
+    git clone [https://github.com/maxencedbe/llm-pretraining-finetuning.git](https://github.com/maxencedbe/llm-pretraining-finetuning.git)
     cd llm-pretraining-finetuning
     ```
 
