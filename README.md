@@ -1,4 +1,4 @@
-# LLM Fine-Tuning with DistilBERT 🤖
+# LLM Fine-Tuning with DistilBERT
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red)
