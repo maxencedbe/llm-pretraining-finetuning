@@ -6,7 +6,7 @@
 
 This repository contains an implementation of **Transfer Learning** techniques applied to Large Language Models (LLMs). Specifically, it focuses on fine-tuning a **DistilBERT** model for sentiment analysis.
 
-This project was developed as part of the **ALTeGraD (Advanced Learning for Text and Graph Data)** course, part of the **Master MVA (Mathématiques Vision Apprentissage)** at **École Polytechnique (l'X)** within the *Institut Polytechnique de Paris*.
+This project was developed as part of the **ALTeGraD (Advanced Learning for Text and Graph Data)** course, part of the **Master MVA (Mathématiques Vision Apprentissage)** at **École Polytechnique** within the *Institut Polytechnique de Paris*.
 
 ## 🧠 Project Overview
 
